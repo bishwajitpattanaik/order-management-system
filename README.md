@@ -10,6 +10,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+<table>
+  <tr>
+    <td align="center"><b>Console App</b></td>
+    <td align="center"><b>Web App</b></td>
+  </tr>
+  <tr>
+    <td><img width="100%" alt="Console app output" src="https://github.com/user-attachments/assets/11d8e88a-8779-4c17-8350-0fb56e3c6262" /></td>
+    <td><img width="100%" alt="Web app interface" src="https://github.com/user-attachments/assets/5ea9a804-ae56-4810-b9f2-07636b56cdc8" /></td>
+  </tr>
+</table>
+
 ---
 
 ## Overview
@@ -144,12 +155,20 @@ The console app demonstrates raw JDBC fundamentals — connection handling, `Pre
 
 ---
 
-## License
+## 👤 Author
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+Built with ❤️ by **Bishwajit Pattanaik**
+
+- 🔗 GitHub: [github.com/bishwajitpattanaik](https://github.com/bishwajitpattanaik)
+- 💼 LinkedIn: [linkedin.com/bishwajitpattanaik](https://www.linkedin.com/in/bishwajit-pattanaik-717818320/)
+---
+
+## 🛠️ Support
+
+For issues or questions, open an issue in the repository — [github.com/bishwajitpattanaik/muse/issues](https://github.com/bishwajitpattanaik/muse/issues)
 
 ---
 
-## Author
+## 📄 License
 
-**Bishwajit Pattanaik**
+This project is open source and available under the [MIT License](LICENSE).
