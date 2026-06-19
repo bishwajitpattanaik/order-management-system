@@ -1,0 +1,48 @@
+# ---- Compiled output ----
+*.class
+build/
+**/build/
+target/
+**/WEB-INF/classes/
+
+# ---- Third-party libraries (don't commit jars anywhere in the project) ----
+*.jar
+
+# ---- Eclipse project/workspace metadata ----
+.settings/
+**/.settings/
+.project
+**/.project
+.classpath
+**/.classpath
+.metadata/
+**/.metadata/
+
+# ---- Local Tomcat server configuration (machine-specific, not project source) ----
+Servers/
+**/Servers/
+
+# ---- Auto-generated web app files ----
+**/META-INF/MANIFEST.MF
+
+# ---- Maven (if used) ----
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# ---- OS junk files ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+
+# ---- Other IDEs ----
+.vscode/
+.idea/
+*.iml
+
+# ---- Screenshots / demo images (not pushed) ----
+images/
+**/images/
+OrderConsoleAppDemo.png
