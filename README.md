@@ -14,7 +14,7 @@
 
 ## Overview
 
-OrderSync lets a user place a product order through either a **command-line interface** or a **browser-based form**, with both versions sharing the same core business logic:
+Order Management System lets a user place a product order through either a **command-line interface** or a **browser-based form**, with both versions sharing the same core business logic:
 
 - Product names are validated against a live database before an order can proceed
 - Stock levels are checked in real time to prevent overselling
@@ -153,4 +153,3 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 ## Author
 
 **Bishwajit Pattanaik**
-Java Full Stack Developer
