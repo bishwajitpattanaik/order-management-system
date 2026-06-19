@@ -1,4 +1,4 @@
-# OrderSync
+# Order Management System
 
 > A full-stack order management system built with **Java, JDBC, MySQL, Servlets, JSP & AJAX**, featuring both a console-based and a real-time web interface for product validation, stock control, and automated order processing.
 
